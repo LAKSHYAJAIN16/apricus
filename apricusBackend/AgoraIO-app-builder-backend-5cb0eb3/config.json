@@ -1,0 +1,18 @@
+{
+    "APP_ID": "186325d747d14ff2ad02c07c9c897f9a",
+    "APP_CERTIFICATE": "",
+    "CUSTOMER_ID": "",
+    "CUSTOMER_CERTIFICATE": "",
+    "BUCKET_NAME": "",
+    "BUCKET_ACCESS_KEY": "",
+    "BUCKET_ACCESS_SECRET": "",
+    "CLIENT_ID": "392207828070-lo081dkdtc3qe6jbtlns82hg5sisgjs1.apps.googleusercontent.com",
+    "CLIENT_SECRET": "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",
+    "PSTN_USERNAME": "",
+    "PSTN_PASSWORD": "",
+    "PSTN_NUMBER": "",
+    "SCHEME": "",
+    "ALLOWED_ORIGIN": "",
+    "ENABLE_NEWRELIC_MONITORING": false,
+    "RUN_MIGRATION": true
+}
