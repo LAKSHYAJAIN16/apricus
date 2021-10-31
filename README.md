@@ -6,3 +6,5 @@ Backend is written in GO and is hosten statically at https://ckus0esk3100634idk0
 Include Chat, screensharing, Host Commands, Polls and More.
 
 Wrote primarily in TypeScript.
+
+View the Website at https://apricus.netlify.app/home
