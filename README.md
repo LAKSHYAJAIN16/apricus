@@ -7,4 +7,4 @@ Include Chat, screensharing, Host Commands, Polls and More.
 
 Wrote primarily in TypeScript.
 
-View the Website at https://apricus.netlify.app/home
+View the Website at https://apricus.netlify.app/
